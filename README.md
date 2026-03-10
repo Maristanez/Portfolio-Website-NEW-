@@ -32,6 +32,12 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 
 # Install dependencies
+
+## Running the App
+npm run dev
+# or
+pnpm dev
+
 npm install
 # or
 pnpm install
