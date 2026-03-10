@@ -31,9 +31,10 @@ Interactive 3D portfolio website built with modern web tech to showcase my proje
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 
+
 # Install dependencies
 
-## Running the App
+### Running the App
 npm run dev
 # or
 pnpm dev
@@ -41,3 +42,4 @@ pnpm dev
 npm install
 # or
 pnpm install
+
